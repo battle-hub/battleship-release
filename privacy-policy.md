@@ -47,9 +47,17 @@ Battleship Game is intended for a general audience. We do not knowingly collect 
 
 ## Requesting Data Deletion
 
-If you'd like your account and associated data (including email, name, and game history) deleted, please visit:  
-👉 [https://yourdomain.com/delete-account](https://yourdomain.com/delete-account)  
-Or contact us using the information below.
+To request deletion of your account and all associated data (including your email, name, and game history), you can:
+
+- Open a GitHub issue at [https://github.com/battle-hub/battleship-release/issues](https://github.com/battle-hub/battleship-release/issues)  
+  - Select the **`account`** label
+  - Clearly state that you are requesting account deletion
+
+**OR**
+
+- Send us an email at 📧 **battlehub.contact@gmail.com** with your request.
+
+We will confirm the deletion once your request is processed.
 
 ---
 
