@@ -1,6 +1,6 @@
-# Delete Your Account – Battleship Game
+# Delete Your Account – Ship Clash
 
-If you would like to delete your account and all associated data from **Battleship Game** by **Battle Hub**, you have two options:
+If you would like to delete your account and all associated data from **Ship Clash** by **Battle Hub**, you have two options:
 
 ---
 

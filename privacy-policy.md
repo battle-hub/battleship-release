@@ -1,8 +1,8 @@
-# Privacy Policy – Battleship Game
+# Privacy Policy – Ship Clash
 
-**Effective Date:** August 1, 2025  
+**Effective Date:** November 9, 2026  
 
-Battleship Game (“the App”) is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding that data.
+Ship Clash (formerly “Battleship Game”, “the App”), published by Battle Hub, is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding that data.
 
 ---
 
@@ -12,6 +12,7 @@ Battleship Game (“the App”) is committed to protecting your privacy. This Pr
 - **Username:** You may set a username to appear in multiplayer games.  
 - **Game Statistics:** We track your number of games won and lost to improve game features and provide a better experience.  
 - **Firebase User ID:** We generate a unique ID for each user account using Firebase.  
+- **App Usage and Diagnostics:** We use Google Firebase Analytics and Firebase Crashlytics, which automatically collect usage data (such as screens viewed and session length), crash reports, device information (model, OS version) and an app instance / advertising identifier. This helps us find bugs and improve the game.  
 
 ---
 
@@ -29,7 +30,9 @@ We use the collected data to:
 ## What We Do *Not* Collect or Share
 
 - We do **not** collect sensitive personal information such as phone numbers, addresses, or payment details.  
-- We do **not** share your personal data with third parties for advertising, analytics, or marketing purposes.  
+- We do **not** sell your personal data.  
+- We do **not** share your personal data with third parties for advertising or marketing purposes.  
+- Analytics and crash data are processed by Google (Firebase) on our behalf, under [Google's Privacy Policy](https://policies.google.com/privacy).  
 
 ---
 
@@ -41,7 +44,7 @@ Your data is stored securely using **Google Firebase** infrastructure. We take r
 
 ## Children’s Privacy
 
-Battleship Game is intended for a general audience. We do not knowingly collect personal information from children under 13 without parental consent, in compliance with applicable privacy laws.
+Ship Clash is intended for a general audience. We do not knowingly collect personal information from children under 13 without parental consent, in compliance with applicable privacy laws.
 
 ---
 
